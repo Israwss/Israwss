@@ -44,57 +44,28 @@
   <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
 </ul>
 
-#### A little more about me
-```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
-}
-```
 
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
-
-#### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
-
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
-
-#### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
 
 
 /////////
+
+
+  
+## Contribution Graph
+  <br/>
+   <a href="https://github.com/Israwss"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+<br/>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
+
+<details>
+  <summary>📃 &nbsp;Resume</summary>
+
 
 
 
