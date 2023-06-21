@@ -84,7 +84,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <img width="30px" src=" https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"/>
    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   </kbd>
  
