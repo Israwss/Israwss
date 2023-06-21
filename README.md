@@ -99,8 +99,7 @@
     <kbd>Automation</kbd>
     <br>
     <br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg" />
-    <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Blue_Prism_logo.svg" />
+    <img width="30px" height="30px"src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
