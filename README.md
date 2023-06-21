@@ -15,17 +15,21 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Engineering+Student;Aspiring+Data+Scientist" /></a>
 </p>
-<p>I am a Computer Engineering Student,Aspiring Data Scientist,I'm a Competitive Programmer.</p>
+
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
 <h3><b>About me</b></h3>
 
-<p>I'm Federico, a researcher and entrepreneur currently living in <img src="https://image.flaticon.com/icons/svg/321/321167.svg" width="14"/> <b>Bern, Switzerland</b>. My work combines <img src="https://image.flaticon.com/icons/svg/3254/3254464.svg" width="14"/> <b>genomics</b> (more in general, high-throughput technologies) with <img src="https://image.flaticon.com/icons/svg/2103/2103633.svg" width="14"/> <b>data science</b> to answer fundamental questions in <img src="https://image.flaticon.com/icons/svg/1021/1021606.svg" width="14"/> <b>biomedicine</b>. I describe myself as a generalist. However, as for every person, no single label can be sufficiently accurate. I enjoy breaking communication barriers and have an aversion to silos. I have a long-standing passion for <img src="https://image.flaticon.com/icons/svg/2970/2970624.svg" width="14"/> <b>machine learning</b> and <img src="https://image.flaticon.com/icons/svg/2920/2920349.svg" width="14"/> <b>applied statistics</b>. In particular, I find Bayesian methods closest to my mindset, interpretable and effective. Finally, a few things I am convinced about:
+<p>🎓 Currently pursuing my studies in computer engineering, I am continually expanding my knowledge and honing my skills in various aspects of the field. With a strong foundation in computer science, mathematics, and engineering principles, I'm equipped to tackle complex data-driven challenges.
 
-- The problem chooses the tool, not the other way around
-- Investing into people pays the highest dividends
-- Innovation requires the right mix of diversity and collaboration
+💻 As a budding data scientist, I am captivated by the power of data to uncover meaningful insights and drive impactful decision-making. From manipulating and analyzing vast datasets to developing sophisticated machine learning models, I am constantly exploring the vast realm of data science.
+
+🔍 I thrive on problem-solving and love diving into intricate puzzles that require innovative approaches. With a curious mind and an analytical mindset, I relish the opportunity to explore new technologies and algorithms to extract value from raw data.
+
+📊 Beyond my technical skills, I possess a strong sense of creativity and a knack for storytelling. I believe that visualizing data effectively is key to effectively communicate complex findings and inspire actionable outcomes.
+
+💡 Collaborative by nature, I find great joy in working with like-minded individuals on challenging projects. I enjoy exchanging ideas, learning from others, and leveraging our collective knowledge to push boundaries and deliver exceptional results.
 
 </p>
 
