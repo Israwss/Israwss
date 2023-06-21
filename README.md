@@ -37,7 +37,9 @@
 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -136,6 +138,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Israel Martinez" /> </p>
+
+
+
 
 
 
