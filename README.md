@@ -33,16 +33,14 @@
 
 💡 Collaborative by nature, I find great joy in working with like-minded individuals on challenging projects. I enjoy exchanging ideas, learning from others, and leveraging our collective knowledge to push boundaries and deliver exceptional results.
 
+🌱 I’m currently learning Tensorflow, Web Scrapping, natural language processing and text classification. Also preparing The Data Science Foundation of IABAC		
+
 </p>
 
-
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
-</ul>
+
+
+
 
 
 
@@ -61,7 +59,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Israel Martinez" /> </p>
 
 
 
