@@ -37,24 +37,6 @@
 
 </p>
 
-<ul>
-
-
-
-  
-## Contribution Graph
-  <br/>
-   <a href="https://github.com/Israwss"><img alt="Israel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Israel'%20Israel's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Israel Martinez" /> </p>
-
-
 
 
 <p style="display: inline-block;" align="center">
@@ -146,25 +128,25 @@
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
-</p>
 
 
+  
+## Contribution Graph
+  <br/>
+   <a href="https://github.com/Israwss"><img alt="Israel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Israel'%20Israel's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
------
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
+<br/>
 
-Last Edited on: 20/01/2022
+![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Israel Martinez" /> </p>
+
+
+
+
+
 
 
 
