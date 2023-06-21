@@ -17,6 +17,19 @@
 </p>
 <p>I am a Computer Engineering Student,Aspiring Data Scientist,I'm a Competitive Programmer.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+
+<h3><b>About me</b></h3>
+
+<p>I'm Federico, a researcher and entrepreneur currently living in <img src="https://image.flaticon.com/icons/svg/321/321167.svg" width="14"/> <b>Bern, Switzerland</b>. My work combines <img src="https://image.flaticon.com/icons/svg/3254/3254464.svg" width="14"/> <b>genomics</b> (more in general, high-throughput technologies) with <img src="https://image.flaticon.com/icons/svg/2103/2103633.svg" width="14"/> <b>data science</b> to answer fundamental questions in <img src="https://image.flaticon.com/icons/svg/1021/1021606.svg" width="14"/> <b>biomedicine</b>. I describe myself as a generalist. However, as for every person, no single label can be sufficiently accurate. I enjoy breaking communication barriers and have an aversion to silos. I have a long-standing passion for <img src="https://image.flaticon.com/icons/svg/2970/2970624.svg" width="14"/> <b>machine learning</b> and <img src="https://image.flaticon.com/icons/svg/2920/2920349.svg" width="14"/> <b>applied statistics</b>. In particular, I find Bayesian methods closest to my mindset, interpretable and effective. Finally, a few things I am convinced about:
+
+- The problem chooses the tool, not the other way around
+- Investing into people pays the highest dividends
+- Innovation requires the right mix of diversity and collaboration
+
+</p>
+
+
 <ul>
   <li>👋 Hi, I’m @MrBlueBird2</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
