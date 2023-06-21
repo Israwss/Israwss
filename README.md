@@ -23,6 +23,8 @@
 
 <p>🎓 Currently pursuing my studies in computer engineering, I am continually expanding my knowledge and honing my skills in various aspects of the field. With a strong foundation in computer science, mathematics, and engineering principles, I'm equipped to tackle complex data-driven challenges.
 
+🔍 I have experience as an intern in automation, RPA and data analysis. During my internship, I had the opportunity to work on exciting projects where I applied my skills in RPA and data analysis to drive process automation and derive insights from data.
+
 💻 As a budding data scientist, I am captivated by the power of data to uncover meaningful insights and drive impactful decision-making. From manipulating and analyzing vast datasets to developing sophisticated machine learning models, I am constantly exploring the vast realm of data science.
 
 🔍 I thrive on problem-solving and love diving into intricate puzzles that require innovative approaches. With a curious mind and an analytical mindset, I relish the opportunity to explore new technologies and algorithms to extract value from raw data.
