@@ -61,7 +61,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
 
 
 
