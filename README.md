@@ -53,7 +53,7 @@
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/Israwss"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Israwss"><img alt="Israel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Israel'%20Israel's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
@@ -63,8 +63,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeshibintmz&label=Profile%20views&color=blueviolet&style=flat" alt="Shibin Thomas" /> </p>
 
-<details>
-  <summary>📃 &nbsp;Resume</summary>
 
 
 
