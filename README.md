@@ -107,7 +107,8 @@
     <br>
     <br>
     <img width="30px" height="30px"src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
-    <img width="30px" height="30px"src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Blue_Prism_logo.svg" />
+    <img width="30px" height="30px"src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
+     <img width="30px" height="30px"src="https://cdn.worldvectorlogo.com/logos/looker-1.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
