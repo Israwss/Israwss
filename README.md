@@ -213,11 +213,7 @@
 
   
 ## Contribution Graph
-  <br/>
-   <a href="https://github.com/Israwss"><img alt="Israel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Israwss&custom_title=Israel'%20Israel's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
-<br/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Israwss/Israwss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
