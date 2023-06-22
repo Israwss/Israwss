@@ -175,7 +175,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Israwss" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Israwss&theme=tokyonight_duo" alt="Israwss" /></p>
 
 </details>
   
