@@ -126,7 +126,7 @@
 
 
 
-### My Certifications :arrow_down:
+## My Certifications :arrow_down:
 
 - Smartsheet Product Certification
 - Google Data Analytics
