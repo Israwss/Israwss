@@ -128,9 +128,16 @@
 
 ## My Certifications :arrow_down:
 
-- [Smartsheet Product Certification]
-- [Google Data Analytics]
-- [The Data Science Foundation](In progrees) 
+- Smartsheet Product Certification
+- Google Data Analytics
+- The Data Science Foundation (In progrees) 
+
+
+
+## Languages: :speech_balloon:
+
+- 🇲🇽 Spanish (Native) 🇪🇸
+- 🇬🇧 English (B1) 🇺🇸
 
 
 
