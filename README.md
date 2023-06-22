@@ -142,7 +142,7 @@
 
 ## Recent Project
 <!-- BLOG-POST-LIST:START -->
-- [Turism project and data visualization with smartsheet]([https://towardsdatascience.com/string-matching-with-bert-tf-idf-and-more-274bb3a95136?source=rss-22405c3b2875------2](https://app.smartsheet.com/b/publish?EQBCT=5c5b773810e24f1487bc9325095d5e27))
+- [Turism project and data visualization with smartsheet](https://app.smartsheet.com/b/publish?EQBCT=5c5b773810e24f1487bc9325095d5e27)
 
 
 
