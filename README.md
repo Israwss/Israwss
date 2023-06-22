@@ -126,6 +126,14 @@
 
 
 
+## My Certifications :arrow_down:
+
+- [Smartsheet Product Certification]
+- [Google Data Analytics]
+- [The Data Science Foundation](In progrees) 
+
+
+
   
 ## Contribution Graph
   <br/>
