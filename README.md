@@ -134,21 +134,21 @@
 - Google Data Analytics
 - The Data Science Foundation (In progrees) 
 
-
+##
 
 ## Languages: :speech_balloon:
 
 - 🇲🇽 Spanish (Native) 🇪🇸
 - 🇬🇧 English (B1) 🇺🇸
-
+##
 
 ## Recent Project
 <!-- BLOG-POST-LIST:START -->
 - [Turism project and data visualization with smartsheet](https://app.smartsheet.com/b/publish?EQBCT=5c5b773810e24f1487bc9325095d5e27)
+##
 
-
-
-<h3 align="left">Connect with me:</h3>
+##
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/israel-mart%C3%ADnez-jim%C3%A9nez-60225a1b0/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -164,7 +164,7 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-
+##
 
 
 
@@ -183,7 +183,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Israwss&label=Profile%20views&color=blueviolet&style=flat" alt="Israel Martinez" /> </p>
 
-
+##
 
 
 
