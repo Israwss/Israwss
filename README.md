@@ -192,14 +192,7 @@
 
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-----
-	
-[![Israwss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Israwss&theme=github	)](https://github.com/Israwss/github-readme-activity-graph)
-
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -207,7 +200,7 @@
 	
 <p align="center"> <a href="https://github.com/Israwss/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Israwss&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Israwss" /></a> </p>
 
-[![@Israwss's Holopin board](https://holopin.io/api/user/board?user=Israwss)](https://holopin.io/@7oskaa)
+
 	
 </details>
 	
