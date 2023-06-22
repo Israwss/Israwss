@@ -214,7 +214,7 @@
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/Israwss"><img alt="Israel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Israel'%20Israel's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Israwss"><img alt="Israel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Israwss&custom_title=Israel'%20Israel's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
