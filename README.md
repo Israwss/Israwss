@@ -204,75 +204,7 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Israwss/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Israwss/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Israwss/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Israwss/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Israwss">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Isra2wss&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Israwss/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Israwss&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
 
 </br></br>
 	
